@@ -2,17 +2,17 @@
 
 ## Get progect
 Go to console<br>
-`git clone https://github.com/Fantasydart/webpack.git`
+`git clone https://github.com/Fantasydart/webpack.git`<br><br>
 
 ## First Commit
-`git commit -m "first commit"`
-`git branch -M main`
-`git remote add origin https://github.com/Fantasydart/webpack.git`
+`git commit -m "first commit"` <br>
+`git branch -M main`<br>
+`git remote add origin https://github.com/Fantasydart/webpack.git`<br>
 `git push -u origin main` <br><br><br>
 …or push an existing repository from the command line<br>
-`git remote add origin https://github.com/Fantasydart/webpack.git`
-`git branch -M main`
-`git push -u origin main`
+`git remote add origin https://github.com/Fantasydart/webpack.git`<br>
+`git branch -M main`<br>
+`git push -u origin main`<br>
 
 ## First steps in project
 `npm init` - use params project name, as default webpack<br>
